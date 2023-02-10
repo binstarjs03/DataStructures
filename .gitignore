@@ -1,0 +1,11 @@
+.vs
+bin
+obj
+Debug
+Release
+
+*.csproj.user
+*.exe
+*.pdb
+*.obj
+*.log
